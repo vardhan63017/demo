@@ -17,4 +17,3 @@ Routes
 - GET /dashboard — protected route; send header `Authorization: Bearer affordmed123`
 - GET /profile — protected route; send header `Authorization: Bearer affordmed123`
 
-Keep it simple and small — this repo is for practice and learning.
